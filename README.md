@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BrunoSantos72
+- 👀 I’m interested in I.T. Management and RPA developing
+- 🌱 I’m currently learning Python, UiPath, Automation Anywhere and SQL
+- 📫 How to reach me: Brunosantosemp@gmail.com
