@@ -55,19 +55,7 @@ With solid experience in **Python, SQL, APIs, Web Automation, Data Analytics, an
 - ✅ **API Integrations:** Systems communication, data synchronization
 - ✅ **Process Automation:** Business workflows, RPA bots, repetitive tasks elimination
 - ✅ **Data Analytics & Reporting:** Dashboards, KPI monitoring, business insights
-
----
-
-## 📈 Featured Projects
-
-| Project                                | Description                                         | Tech Stack                                        |
-| --------------------------------------- | -------------------------------------------------- | ------------------------------------------------- |
-| **Amazon Product Scraper**              | Scrapes product data from Amazon listings          | Python, Playwright, Pandas, Excel                 |
-| **Google Form Automation Bot**          | Automatically fills forms and submits responses    | Python, Selenium                                  |
-| **File Downloader Automation**          | Automates downloading files from a public portal   | Python, Selenium, OS, Pandas                      |
-| **API Data Pipeline**                   | Connects APIs, fetches data, and transforms it     | Python, Requests, FastAPI, Pandas, PostgreSQL     |
-| **Business Dashboard with Power BI**    | Full reporting solution for operations performance | SQL, Power BI, DAX, Excel                         |
-
+  
 ---
 
 ## 🏆 GitHub Stats
