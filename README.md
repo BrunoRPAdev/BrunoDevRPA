@@ -1,33 +1,95 @@
-<h1 align="center">Hi 👋, I'm Bruno</h1>
-<h3 align="center">Automation Specialist | Python Developer | RPA | Web Scraping | API Integrations</h3>
+<h1 align="center">Hey, I'm Bruno 👋</h1>
 
-- 🔥 I help businesses save time by building **custom automation, bots, and web scrapers**.
-
-- 🚀 Technologies I use:  
-`Python` | `Selenium` | `Playwright` | `BeautifulSoup` | `FastAPI` | `PostgreSQL` | `Docker`
-
-- 📫 How to reach me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/seu-link)  
-[Portfolio](https://seuportfolio.com)
+<h3 align="center">
+Python Developer | RPA Specialist | Data Analyst | SQL Expert | API Integrator
+</h3>
 
 ---
 
-### ⚙️ Some of my projects:
-- 🔗 [Web Scraping Amazon](https://github.com/seu-user/amazon-scraper) — **Scraper that collects product data**
-- 🔗 [Form Automation Bot](https://github.com/seu-user/form-automation) — **Automated form filler using Selenium**
-- 🔗 [File Downloader](https://github.com/seu-user/file-downloader) — **Bot that downloads files from websites**
+## 🚀 About Me
+
+I am a **Back-End Developer** and **Automation Specialist** passionate about building solutions that optimize business processes, automate repetitive tasks, and transform data into strategic insights.
+
+With solid experience in **Python, SQL, APIs, Web Automation, Data Analytics, and Power BI**, I help companies improve operational efficiency, reduce manual work, and make better data-driven decisions.
 
 ---
 
-### 🛠️ What I do:
-- ✅ Web scraping
-- ✅ Web automation (clicks, forms, downloads)
-- ✅ Data extraction to Excel, CSV, Google Sheets
-- ✅ API integrations
-- ✅ Process automation with Python bots
+## 🛠️ Tech Stack & Skills
 
+### 💻 Programming & Automation
+- **Python:** Selenium, Playwright, BeautifulSoup, Pandas, NumPy, FastAPI, Flask
+- **RPA:** Process automation, web scraping, bot development, workflow automation
+- **API Integrations:** REST, JSON, Requests, Automation between platforms
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD59?style=for-the-badge&logo=playwright&logoColor=white)
+### 🗄️ Databases & Data Engineering
+- **SQL:** PostgreSQL, MySQL, SQLite
+- **Data Pipelines:** ETL processes, data cleansing, transformation
+- **Automation of data workflows**
 
+### 📊 Business Intelligence
+- **Power BI:** Dashboard design, DAX, data modeling, performance optimization
+- **Data Analysis:** KPIs creation, reporting, and data-driven insights
+- **Visualization Tools:** Power BI, Excel, Google Data Studio
+
+### ☁️ Other Technologies
+- Docker (Containers)
+- Git / GitHub (Version Control)
+- APIs (Consumption & Development)
+- JSON, XML, CSV, Excel Automation
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-informational?style=for-the-badge&logo=google-chrome)](https://seuportifolio.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:seuemail@gmail.com)
+
+---
+
+## 🚀 Services I Provide
+
+- ✅ **Web Automation:** Form fills, clicks, downloads, task automation
+- ✅ **Web Scraping:** Data extraction from websites, marketplaces, directories
+- ✅ **Data Automation:** Excel, Google Sheets, CSV automation workflows
+- ✅ **API Integrations:** Systems communication, data synchronization
+- ✅ **Process Automation:** Business workflows, RPA bots, repetitive tasks elimination
+- ✅ **Data Analytics & Reporting:** Dashboards, KPI monitoring, business insights
+
+---
+
+## 📈 Featured Projects
+
+| Project                                | Description                                         | Tech Stack                                        |
+| --------------------------------------- | -------------------------------------------------- | ------------------------------------------------- |
+| **Amazon Product Scraper**              | Scrapes product data from Amazon listings          | Python, Playwright, Pandas, Excel                 |
+| **Google Form Automation Bot**          | Automatically fills forms and submits responses    | Python, Selenium                                  |
+| **File Downloader Automation**          | Automates downloading files from a public portal   | Python, Selenium, OS, Pandas                      |
+| **API Data Pipeline**                   | Connects APIs, fetches data, and transforms it     | Python, Requests, FastAPI, Pandas, PostgreSQL     |
+| **Business Dashboard with Power BI**    | Full reporting solution for operations performance | SQL, Power BI, DAX, Excel                         |
+
+---
+
+## 🏆 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USER&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 💡 Let's Build Something Great!
+
+> Whether you're looking for process automation, data extraction, API integrations, or data analysis, I'm here to help turn your ideas into efficient, automated solutions.
+
+Feel free to reach out — let's automate, optimize, and grow together!
+
+---
