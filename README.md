@@ -58,22 +58,6 @@ With solid experience in **Python, SQL, APIs, Web Automation, Data Analytics, an
   
 ---
 
-## 🏆 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USER&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 💡 Let's Build Something Great!
 
 > Whether you're looking for process automation, data extraction, API integrations, or data analysis, I'm here to help turn your ideas into efficient, automated solutions.
