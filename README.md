@@ -25,3 +25,9 @@
 - ✅ Data extraction to Excel, CSV, Google Sheets
 - ✅ API integrations
 - ✅ Process automation with Python bots
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD59?style=for-the-badge&logo=playwright&logoColor=white)
+
